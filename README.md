@@ -1,1 +1,1 @@
-# Smart-City
+Smart City Java project is an integrated digital platform designed to modernize urban living by centralizing essential services for residents, tourists, and administrators. It functions as an all-in-one guide and management tool that replaces traditional paper-based information systems with a scalable, real-time database.
